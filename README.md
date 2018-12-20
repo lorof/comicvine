@@ -8,6 +8,9 @@
 # install dependencies
 npm install
 
+# Create a .env file and paste api_key
+API=api_key
+
 # serve with hot reload at localhost:8080
 npm run dev
 
